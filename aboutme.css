@@ -1,0 +1,13 @@
+h1 {
+    font-style: bold;
+    font-family: serif;
+    text-align: center;
+}
+
+p {
+    font-family: sans;
+    background: lightgreen;
+    text-align: center;
+}
+
+
