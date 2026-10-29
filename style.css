@@ -10,8 +10,8 @@ h4 {
 
 
 table {
-    font-family: serif
-    font-style=bold
+    font-family: serif;
+    font-weight: bold;
 }
 
 
@@ -47,6 +47,8 @@ th, td {
   text-align: left;
   border-right: 2px solid #ddd;
   font-family:'Times New Roman', Times, serif;
+  border: 2px solid powderblue;
+  padding: 8px;
 }
 
 
